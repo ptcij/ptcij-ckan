@@ -1,0 +1,85 @@
+.module-content a {
+  color: #458FC1; }
+
+.module-content a:hover,
+.module-content a:focus {
+  color: #35749e; }
+
+.module-content .btn {
+  color: #458FC1; }
+
+.module-content .btn-primary {
+  color: #ffffff;
+  background-color: #458FC1; }
+
+.module-content .btn-danger {
+  color: #ffffff; }
+
+.module-content .btn-primary:hover,
+.module-content .btn-group.open .btn-primary.dropdown-toggle {
+  color: #ffffff;
+  background-color: #35749e; }
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-submenu:hover > a,
+.dropdown-submenu:focus > a {
+  background-color: #35749e; }
+
+.tags ul.well li a.tag,
+ul.tags li a.tag {
+  border-color: #458FC1; }
+
+.tags ul.well li a.tag:hover,
+ul.tags li a.tag:hover {
+  background-color: #35749e;
+  border-color: #35749e; }
+
+/*****ACCOUNT HEADER*****/
+.account-masthead {
+  background-color: #458FC1; }
+
+.toolbar-title h1 {
+  color: #458FC1; }
+
+.header__content-topmenu .search-input input {
+  border-color: #458FC1; }
+
+.header__content-topmenu ul li,
+.header__content-metamenu ul li {
+  border-left-color: #458FC1; }
+
+.header__content-topmenu ul li:last-child,
+.header__content-metamenu ul li:last-child {
+  border-right-color: #458FC1; }
+
+.header__content-topmenu ul li a:hover,
+.header__content-metamenu ul li a:hover {
+  color: #35749e; }
+
+.logo-title h1 {
+  color: #458FC1; }
+
+.header__content .search-input.search-giant input {
+  border-color: #458FC1; }
+
+.header__content-tags ul li a,
+.content__data ul.tags li a {
+  border-color: #458FC1;
+  color: #458FC1; }
+
+.header__content-tags ul li a:hover,
+.content__data ul.tags li a:hover {
+  background-color: #35749e;
+  border-color: #35749e; }
+
+li.first {
+  border-right-color: #458FC1; }
+
+a.button {
+  background-color: #458FC1; }
+
+a.button:hover {
+  background-color: #35749e; }
+
+/*# sourceMappingURL=socialsci.css.map */

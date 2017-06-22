@@ -1,0 +1,39 @@
+# docker-compose build && docker-compose up
+ckan:
+  container_name: ckan
+  build: ./
+  links:
+      - db
+      - solr
+      - redis
+  ports:
+      - "9000:5000"
+  volumes:
+      - ./backup:/backup
+  restart: always
+
+db:
+  container_name: db
+  build: ./custom/postgres/
+  volumes:
+    - /etc/postgresql
+    - /var/log/postgresql
+    - /var/lib/postgresql
+    - ./backup:/backup
+  ports:
+    - "5433:5432"
+  restart: always
+
+solr:
+  container_name: solr
+  image: ckan/solr:latest
+  ports:
+    - "8983:8983"
+  restart: always
+
+redis:
+  container_name: redis
+  image: redis:latest
+  ports:
+    - "6380:6379"
+  restart: always

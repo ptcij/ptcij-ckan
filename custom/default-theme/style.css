@@ -1,0 +1,93 @@
+.masthead {
+    min-height: 55px;
+    color: #ffffff;
+    background: #ffffff;
+}
+
+.site-footer {
+    min-height: 55px;
+    color: #ffffff;
+    background: rgba(70, 69, 69, 0.91) url(../../../base/images/bg.png);
+    padding: 20px 0;
+}
+
+
+/*.hero {*/
+    /*background: url(../../../base/images/background-tile.png);*/
+/*}*/
+
+/*.hero {*/
+    /*background: url(https://cdn.shutterstock.com/shutterstock/videos/10296281/thumb/1.jpg);*/
+/*}*/
+ /*https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQe9y2lclMeNFuGXKT1QI7Dukn0UE7U51Rc0PjZQHAZW2JnAlwg*/
+
+.navbar .nav > li {
+    float: left;
+    background-color: #493e3e;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.homepage .module-search .module-content {
+    -webkit-border-radius: 3px 3px 0 0;
+    -moz-border-radius: 3px 3px 0 0;
+    border-radius: 3px 3px 0 0;
+    background-color: rgba(0, 0, 0, 0.35);
+    border-bottom: none;
+}
+
+.site-footer a {
+    color: #ffffff;
+}
+
+/*
+.homepage .module-search {
+    padding: 5px;
+    margin: 20% 0 0 0;
+    color: #ffffff;
+    background: #ffffff;
+    width: 80%;
+}
+*/
+
+.homepage .module-search .module-content {
+    -webkit-border-radius: 3px 3px 0 0;
+    -moz-border-radius: 3px 3px 0 0;
+    border-radius: 3px 3px 0 0;
+    background-color: rgba(0, 0, 0, 0.35);
+    border-bottom: none;
+}
+
+.site-footer a {
+    color: #ffffff;
+}
+
+.homepage .module-search .tags {
+    padding: 5px 10px 10px 10px;
+    background-color: #333333;
+    -webkit-border-radius: 0 0 3px 3px;
+    -moz-border-radius: 0 0 3px 3px;
+    border-radius: 0 0 3px 3px;
+}
+
+.hero {
+    background-image: url(https://www.cia.gov/library/publications/the-world-factbook/graphics/locator/afr/ni_large_locator.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: white;
+}
+
+.account-masthead {
+    min-height: 30px;
+    color: #ffffff;
+    background: #333333 url(../../../base/images/bg.png);
+}
+
+.account-masthead .account ul li a {
+    display: block;
+    color: #cccccc;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 0 10px;
+    line-height: 31px;
+}

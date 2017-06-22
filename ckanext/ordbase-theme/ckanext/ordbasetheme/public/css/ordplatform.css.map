@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,kBAAmB;EACjB,gBAAgB,EAAE,2BAA2B;;AAE/C,gBAAiB;EACf,gBAAgB,EAAE,2BAA2B;;AAG/C,wBAAyB;EACvB,KAAK,EAVa,OAAO;;AAa3B;+BACgC;EAC9B,KAAK,EAfa,OAAO;;AAkB3B;iCACkC;EAChC,KAAK,EApBa,OAAO;EAqBzB,WAAW,EAAE,MAAM;;AAGrB;uCACwC;EACtC,KAAK,EAAE,OAA+B;;AAGxC,mBAAoB;EAClB,KAAK,EA9Ba,OAAO;;AAiC3B,YAAa;EACX,gBAAgB,EAAE,IAAI",
+"sources": ["ordplatform.scss"],
+"names": [],
+"file": "ordplatform.css"
+}

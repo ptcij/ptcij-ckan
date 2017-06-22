@@ -1,0 +1,10 @@
+.header__top {
+    display: none;
+}
+
+.header__content {
+    background-image: url(https://www.cia.gov/library/publications/the-world-factbook/graphics/locator/afr/ni_large_locator.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #e2e2e2;
+}

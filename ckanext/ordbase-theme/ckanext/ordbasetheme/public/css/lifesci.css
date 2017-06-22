@@ -1,0 +1,85 @@
+.module-content a {
+  color: #06968A; }
+
+.module-content a:hover,
+.module-content a:focus {
+  color: #04655d; }
+
+.module-content .btn {
+  color: #06968A; }
+
+.module-content .btn-primary {
+  color: #ffffff;
+  background-color: #06968A; }
+
+.module-content .btn-danger {
+  color: #ffffff; }
+
+.module-content .btn-primary:hover,
+.module-content .btn-group.open .btn-primary.dropdown-toggle {
+  color: #ffffff;
+  background-color: #04655d; }
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-submenu:hover > a,
+.dropdown-submenu:focus > a {
+  background-color: #04655d; }
+
+.tags ul.well li a.tag,
+ul.tags li a.tag {
+  border-color: #06968A; }
+
+.tags ul.well li a.tag:hover,
+ul.tags li a.tag:hover {
+  background-color: #04655d;
+  border-color: #04655d; }
+
+/*****ACCOUNT HEADER*****/
+.account-masthead {
+  background-color: #06968A; }
+
+.toolbar-title h1 {
+  color: #06968A; }
+
+.header__content-topmenu .search-input input {
+  border-color: #06968A; }
+
+.header__content-topmenu ul li,
+.header__content-metamenu ul li {
+  border-left-color: #06968A; }
+
+.header__content-topmenu ul li:last-child,
+.header__content-metamenu ul li:last-child {
+  border-right-color: #06968A; }
+
+.header__content-topmenu ul li a:hover,
+.header__content-metamenu ul li a:hover {
+  color: #04655d; }
+
+.logo-title h1 {
+  color: #06968A; }
+
+.header__content .search-input.search-giant input {
+  border-color: #06968A; }
+
+.header__content-tags ul li a,
+.content__data ul.tags li a {
+  border-color: #06968A;
+  color: #06968A; }
+
+.header__content-tags ul li a:hover,
+.content__data ul.tags li a:hover {
+  background-color: #04655d;
+  border-color: #04655d; }
+
+li.first {
+  border-right-color: #06968A; }
+
+a.button {
+  background-color: #06968A; }
+
+a.button:hover {
+  background-color: #04655d; }
+
+/*# sourceMappingURL=lifesci.css.map */
