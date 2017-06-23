@@ -2,83 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8fb4010-2f5c-4841-9c5e-344b788cb363" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup/ckan_backup.tar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backup/db_backup.tar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/footer-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/icons/humanities.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/icons/lifesci.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/icons/ordplatform.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/icons/socialsci.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/logo-humanities.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/logo-lifesci.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/logo-ordplatform.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/logo-socialsci.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/logo_360.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/pattern1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/pattern2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/images/pattern3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/fanstatic/javascript/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/i18n/de/LC_MESSAGES/ckan.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/i18n/en_GB/LC_MESSAGES/ckan.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/i18n/fr/LC_MESSAGES/ckan.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/plugin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/base.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/base.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/grid.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/humanities.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/humanities.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/humanities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/lifesci.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/lifesci.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/lifesci.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/ordplatform.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/ordplatform.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/ordplatform.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/socialsci.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/socialsci.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/css/socialsci.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/public/licenses.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/account_header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/group/snippets/group_item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/group/snippets/group_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/home/layout1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/home/snippets/left.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/home/snippets/right.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/home/snippets/tab-content.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/home/snippets/upper.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/package/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/package/snippets/info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/snippets/package_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/ckanext/ordbasetheme/templates/snippets/package_preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ckanext/ordbase-theme/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/ckan-entrypoint.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/custom_settings.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/data-migration.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/default-theme/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/ordbase-theme/account_header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/ordbase-theme/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/ordbase-theme/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/ordbase-theme/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/postgres/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker-compose.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ptcij-ckan.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckan" afterPath="$PROJECT_DIR$/ckan" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ptcij-ckan.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -107,7 +37,7 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="1.0959753">
+              <first_editor vertical-scroll-proportion="1.0031348">
                 <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -435,22 +365,30 @@
       <option name="number" value="Default" />
       <updated>1489599548560</updated>
     </task>
+    <task id="LOCAL-00001" summary="move setup to git">
+      <created>1498132322869</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498132322869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="731" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33441034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34006462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32237872" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32237872" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -471,6 +409,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="move setup to git" />
+    <option name="LAST_COMMIT_MESSAGE" value="move setup to git" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -497,7 +439,7 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="1.0959753">
+          <first_editor vertical-scroll-proportion="1.0031348">
             <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
             <folding />
           </first_editor>
